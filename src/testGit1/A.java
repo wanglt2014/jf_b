@@ -6,6 +6,7 @@ public class A {
 		// TODO Auto-generated method stub
 		System.out.println("this is testGit1 commit");
 		// 2
+		System.out.println("this is testGit1 commit2");
 	}
 
 }
