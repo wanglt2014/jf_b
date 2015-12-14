@@ -7,7 +7,7 @@ public class A {
 		System.out.println("this is testGit1 commit");
 		// 2
 
-		System.out.println("this is testGit2 commit2");
+		System.out.println("this is testGit2 commit21");
 
 		System.out.println("this is testGit1 commit22222222222");
 
