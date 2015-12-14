@@ -4,7 +4,7 @@ public class A {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("this is testGit1 commit");
+		System.out.println("this is testGit1 commit123");
 		// 2
 		System.out.println("this is testGit2 commit222222222222222");
 		System.out.println("this is testGit2 commit21");
